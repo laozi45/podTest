@@ -1,0 +1,22 @@
+{
+  "name": "podTest",
+  "version": "0.1.0",
+  "summary": "A short description of podTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/laozi45/podTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "laozi45": "qiulijian"
+  },
+  "source": {
+    "git": "https://github.com/laozi45/podTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "podTest/Classes/**/*"
+}
